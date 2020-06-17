@@ -1,0 +1,34 @@
+<imdb>
+    <movies>
+        <movie>
+            <title>Lord Of The Rings, Fellowship Of The Ring</title>
+                <cast>Elijah Wood</cast>
+                <cast>Orlando Bloom</cast>
+                <cast>Liv Tyler</cast>
+            <description>The Fellowship of the Ring, also known as the Company of the Ring, was formed from nine members of the Free peoples during the War of the Ring. Its purpose was to take the One Ring to Mordor, the only place where it could be destroyed.</description>
+        </movie>
+
+
+    
+        <movie>
+            <title>Iron Man</title>
+                <cast>Robert Downey Jr</cast>
+                <cast>Gwyneth Paltrow</cast>
+                <cast>Jon Favreau</cast>
+            <description>Iron Man is a 2008 American superhero film based on the Marvel Comics character of the same name. ... In the film, following his escape from captivity by a terrorist group, world famous industrialist and master engineer Tony Stark builds a mechanized suit of armor and becomes the superhero Iron Man.</description>
+         </movie>   
+        
+
+
+    
+        <movie>
+            <title>Star Wars: Episode IV - A New Hope </title>
+                <cast>Mark Hamill</cast>
+                <cast>Harrison Ford</cast>
+                <cast>Carrie Fisher</cast>
+            <description> It is a period of civil war. Rebel spaceships, striking from a hidden base, have won their first victory against the evil Galactic Empire. During the battle, Rebel spies managed to steal secret plans to the Empire's ultimate weapon, the DEATH STAR, an armored space station with enough power to destroy an entire planet.</description>
+         </movie>   
+        
+    <movies/>
+</imdb>
+
